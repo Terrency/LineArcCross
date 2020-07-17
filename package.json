@@ -1,0 +1,30 @@
+{
+  "name": "linearccross",
+  "version": "1.0.0",
+  "description": "find cross point with line and arc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terrency/LineArcCross.git"
+  },
+  "keywords": [
+    "line",
+    "arc",
+    "circle",
+    "cross",
+    "point",
+    "math"
+  ],
+  "author": "Terrency",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Terrency/LineArcCross/issues"
+  },
+  "dependencies": {
+    "algos": "^1.0.8"
+  },
+  "homepage": "https://github.com/Terrency/LineArcCross#readme"
+}
